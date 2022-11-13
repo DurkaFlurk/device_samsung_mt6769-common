@@ -5,6 +5,7 @@
 #
 
 PRODUCT_SHIPPING_API_LEVEL := 30
+COMMON_PATH := device/samsung/mt6769-common
 
 # AAPT
 PRODUCT_AAPT_CONFIG := xxxhdpi
